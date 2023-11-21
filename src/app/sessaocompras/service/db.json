@@ -1,0 +1,11 @@
+{
+    "produtos":[
+    {
+        "img": "../../assets/tipos-de-carne-01-710x473.jpg",
+        "nome": "Manteiga Com Sal Teixeira 200 G",
+        "valor":30,
+        "descricao": "Manteiga de Primeira Qualidade com Sal Teixeira Pote 200g",
+        "id":1
+    }
+]
+}
